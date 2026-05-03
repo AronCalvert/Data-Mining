@@ -14,6 +14,6 @@ This project has being undertaken by
 | Name |	Student Number |
 -------|--------|
 Aron Calvert | 22370374 |
-Leo O'Shea | 22 |
-Eric Lonergan |22 |
-Luke Minogue |22 |
+Leo O'Shea | 22342761 |
+Eric Lonergan |22359508 |
+Luke Minogue |22347526 |
